@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Question or Discussion
+    url: https://github.com/mxbabu7/PresalesWork/discussions
+    about: Ask questions or start discussions about the infrastructure
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/mxbabu7/PresalesWork/security/advisories/new
+    about: Report security vulnerabilities privately
